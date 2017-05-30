@@ -1,4 +1,4 @@
-package LibrettoUniversitario;
+package it.polito.tdp.libretto;
 	
 import javafx.application.Application;
 import javafx.stage.Stage;
